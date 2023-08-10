@@ -1,1 +1,70 @@
-
+.lesson-four-task-one:hover {
+  color: red;
+  background: yellow;
+}
+.lesson-four-task-two .title:hover {
+  background: green;
+}
+.lesson-four-task-three a:visited {
+  color: yellow;
+}
+.lesson-four-task-four a:link {
+  color: red;
+}
+.lesson-four-task-five .btn:active:active {
+  background: blue;
+}
+.lesson-four-task-six .btn:focus {
+  background: orange;
+  color: white;
+}
+.lesson-four-task-seven #target:target {
+  color: white;
+  background: green;
+}
+.lesson-four-task-eight #target {
+  color: white;
+  background: blue;
+}
+.lesson-four-task-nine p:lang(uk) {
+  color: blue;
+}
+.lesson-four-task-ten input:enabled {
+  color: red;
+  background: yellow;
+}
+.lesson-four-task-eleven button[type='submit'] {
+  background: yellow;
+}
+.lesson-four-task-twelve input:read-write {
+  background: yellow;
+}
+.lesson-four-task-thirteen input[type='text']:read-only {
+  background: yellow;
+}
+.lesson-four-task-fourteen
+  input[pattern='[A-Za-z]{3}']:valid {
+  background: green;
+}
+input[pattern='[A-Za-z]{3}']:invalid {
+  background: red;
+}
+.lesson-four-task-fifteen textarea:optional {
+  background: red;
+}
+.lesson-four-task-sixteen input:out-of-range {
+  color: red;
+}
+.lesson-four-task-seventeen input:in-range {
+  color: red;
+}
+.lesson-four-task-eighteen input:placeholder-shown {
+  background: red;
+}
+.lesson-four-task-nineteen button:focus-within {
+  color: white;
+  background: yellow;
+}
+.lesson-four-task-twenty input:invalid {
+  background: red;
+}
